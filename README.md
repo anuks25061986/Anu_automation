@@ -1,3 +1,3 @@
 # Anu_automation
-This project is being uploaded on github second time
-I have committed successfully.
+This project is being uploaded on github second time.
+I understood it well.
