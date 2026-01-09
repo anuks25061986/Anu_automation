@@ -1,6 +1,9 @@
 package Steps;
 
+import java.util.logging.Logger;
+
 public class login {
+    Logger log=Logger.getLogger("login");
     @io.cucumber.java.en.Given("^user calculated (\\d+)\\+(\\d+)$")
     public void userCalculated(int arg0, int arg1) {
     }
@@ -20,6 +23,8 @@ public class login {
 
     @io.cucumber.java.en.Given("^user is on login page$")
     public void userIsOnLoginPage() {
+        log.info("This is my log message");
+        System.out.println("This is my login page");
 
     }
 
