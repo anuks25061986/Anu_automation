@@ -4,9 +4,10 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("This is my first github commit integrating with jenkinsssss");
         System.out.println("This is commit from feature into master");
-        System.outt.printttln("This demo is for git rebase from intellij");
+        System.out.println("This demo is for git rebase from intellij");
     }
 }
+
 
 
 
